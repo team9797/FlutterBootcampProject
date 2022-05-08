@@ -32,16 +32,24 @@ https://miro.com/app/board/uXjVO2puQH8=/
 
 # Sprint 1
 
-- **Sprint Notları**: 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Puan tamamlama mantığı**: 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Backlog düzeni ve Story seçimleri**: 
-- **Daily Scrum**:
-- **Sprint board update**: 
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprintte puan toplama zorunluluğu yok.
 
-- **Ürün Durumu**: 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz genel story'lere göre düzenlenmiştir.Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının kolaylık ve hızlı erişim açısından watsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
+- **Sprint board update**: Sprint board screenshotları: 
+![Sprint 1](https://user-images.githubusercontent.com/104425264/167316717-2231b439-8237-41c0-9e92-c1c6eebe8491.jpeg)
+![Sprint](https://user-images.githubusercontent.com/104425264/167316716-dd56496d-f018-41f3-953a-df172a3dc438.jpg)
+
+
+- **Ürün Durumu**:
+UI tasarımına başlanıldı. 
 - **Sprint Review**: 
 Kullanıcıdan veri alma işleminin hangi yolla yapılacağına dair çeşitli yollar belirlenmiş,bu yollar araştırılmaya
 ve denenmeye başlanmıştır.
