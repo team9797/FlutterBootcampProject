@@ -46,6 +46,7 @@ https://miro.com/app/board/uXjVO2puQH8=/
 
 
 - **Sprint Retrospective:**
+- https://user-images.githubusercontent.com/104425264/167316073-abd3a5a8-a14c-47dc-9acd-22c52730acc7.png
   - 
 -**Diğer Notlar**:
 
