@@ -43,11 +43,18 @@ https://miro.com/app/board/uXjVO2puQH8=/
 
 - **Ürün Durumu**: 
 - **Sprint Review**: 
+Kullanıcıdan veri alma işleminin hangi yolla yapılacağına dair çeşitli yollar belirlenmiş,bu yollar araştırılmaya
+ve denenmeye başlanmıştır.
+Ürüne konum bazlı geri dönüşüm noktaları ekleme fikri gerekli olan mekanik sisteme sahip olunamaması
+ve kuponun çeşitli platformlarda kullanılabilir olmasının kullanıcı tarafından suistimal edilebileceği ihtimali
+sebebiyle iptal edilmiştir. Veritabanı oluşturulması, uygulamada kullanıcı profili için gerekli görülmüştür. 
+Ekstra koyulması gereken özellikler belirlenmiştir.
+Sprint Rewiev Katılımcıları: Seçil Şener, Beyza Şenol, Merve Punar, Ömer Mert Gülseven, Yılmaz Halil Gündaş
 
 
 - **Sprint Retrospective:**
-- https://user-images.githubusercontent.com/104425264/167316073-abd3a5a8-a14c-47dc-9acd-22c52730acc7.png
-  - 
+ Takım içerisindeki görev dağılımı başarılı bir şekilde yapılmıştır.
+ Tahmin puanları dengeli bir şekilde belirlenmiştir.
 -**Diğer Notlar**:
 
 ---
