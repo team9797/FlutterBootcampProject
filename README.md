@@ -34,16 +34,17 @@ https://miro.com/app/board/uXjVO2puQH8=/
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprintte puan toplama zorunluluğu yok.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprintte toplam puan 50'dir. İlk sprint sadece fikir bulunmaya ayrıldı ve 50 puan olarak hesaplandı.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz genel story'lere göre düzenlenmiştir.Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının kolaylık ve hızlı erişim açısından watsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
+- **Daily Scrum**: Daily Scrum toplantılarının kolaylık ve hızlı erişim açısından WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
 [SprintDailyScrum.docx](https://github.com/team9797/FlutterBootcampProject/files/8647878/SprintDailyScrum.docx)
+Sprint sonu toplantı fotoğrafı : [ToplantıFotograf.docx](https://github.com/team9797/FlutterBootcampProject/files/8647905/Toplanti.Foto.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Sprint 1](https://user-images.githubusercontent.com/104425264/167316717-2231b439-8237-41c0-9e92-c1c6eebe8491.jpeg)
@@ -59,7 +60,7 @@ ve denenmeye başlanmıştır.
 ve kuponun çeşitli platformlarda kullanılabilir olmasının kullanıcı tarafından suistimal edilebileceği ihtimali
 sebebiyle iptal edilmiştir. Veritabanı oluşturulması, uygulamada kullanıcı profili için gerekli görülmüştür. 
 Ekstra koyulması gereken özellikler belirlenmiştir.
-Sprint Rewiev Katılımcıları: Seçil Şener, Beyza Şenol, Merve Punar, Ömer Mert Gülseven, Yılmaz Halil Gündaş
+  Sprint Rewiev Katılımcıları: Seçil Şener, Beyza Şenol, Merve Punar, Ömer Mert Gülseven, Yılmaz Halil Gündaş
 
 
 - **Sprint Retrospective:**
