@@ -67,7 +67,9 @@ Ekstra koyulması gereken özellikler belirlenmiştir.
 - **Sprint Retrospective:**
   Takım içerisindeki görev dağılımı başarılı bir şekilde yapılmıştır.
   Tahmin puanları dengeli bir şekilde belirlenmiştir.
+
 -**Diğer Notlar**:
+N/A
 
 ---
 
