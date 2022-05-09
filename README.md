@@ -49,7 +49,8 @@ Sprint sonu toplantı fotoğrafı : [ToplantıFotograf.docx](https://github.com/
 - **Sprint board update**: Sprint board screenshotları: 
 ![Sprint 1](https://user-images.githubusercontent.com/104425264/167316717-2231b439-8237-41c0-9e92-c1c6eebe8491.jpeg)
 ![Sprint](https://user-images.githubusercontent.com/104425264/167316716-dd56496d-f018-41f3-953a-df172a3dc438.jpg)
-![Sprint (2)](https://user-images.githubusercontent.com/104425264/167319225-70e61be5-fe57-4d5d-8fee-06154b48c5e3.jpg)
+![Sprint (3)](https://user-images.githubusercontent.com/104425264/167496239-4f758ed3-d0da-4365-b219-f4ae35d609dc.jpg)
+
 
 
 - **Ürün Durumu**:
