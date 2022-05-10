@@ -55,6 +55,8 @@ Sprint sonu toplantı fotoğrafı : [ToplantıFotograf.docx](https://github.com/
 
 - **Ürün Durumu**:
 UI tasarımına başlanıldı. 
+![WhatsApp Image 2022-05-10 at 10 37 05](https://user-images.githubusercontent.com/104425264/167574750-c412f0c2-6cdd-4554-aa82-c1f3316d7728.jpeg)
+
 - **Sprint Review**: 
 Kullanıcıdan veri alma işleminin hangi yolla yapılacağına dair çeşitli yollar belirlenmiş,bu yollar araştırılmaya
 ve denenmeye başlanmıştır.
