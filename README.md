@@ -94,6 +94,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Sprint (5)](https://user-images.githubusercontent.com/104425264/169894232-ffd1c145-0725-419e-8e45-510ac308b153.jpg)
 
 - **Ürün Durumu**:UI tasarımı yapılmaya devam ediyor.Qr kod ve login sayfası üzerinde çalışmalara devam ediliyor.
+
 https://user-images.githubusercontent.com/104425264/169898294-6592a6e6-33e1-4def-80ee-ff3a9dc08b9f.mp4
 
 
