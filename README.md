@@ -91,7 +91,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının kolaylık ve hızlı erişim açısından WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:[New Microsoft Word Document.docx](https://github.com/team9797/FlutterBootcampProject/files/8757527/New.Microsoft.Word.Document.docx)
 
 - **Sprint board update**: Sprint board screenshotları:
-![Sprint (4)](https://user-images.githubusercontent.com/104425264/169891425-18739505-d10a-4352-93f5-66ee07cfcab8.jpg)
+![Sprint (5)](https://user-images.githubusercontent.com/104425264/169894232-ffd1c145-0725-419e-8e45-510ac308b153.jpg)
+
 
 ---
 
