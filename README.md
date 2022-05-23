@@ -103,6 +103,13 @@ https://user-images.githubusercontent.com/104425264/169898331-2a5428da-a033-41c8
 
 https://user-images.githubusercontent.com/104425264/169898341-4d496100-a23f-44b6-a5d9-205ec3da0020.mp4
 
+- **Sprint Review**: 
+Bu sprintte ürün detaylarının üzerinden tekrar geçilmiş, ui tasarımının çoğu(ana sayfa, giriş sayfası ve kayıt ekranı sayfası) halledilmiş, 
+kodlamaya başlanmıştır. Haber sayfasının veri çekme işleminde backend kısmına dair araştırmalar yapılmış, backend ve frontend kısmı ilişkilendirilmeye 
+başlanmıştır. Karekod okutma sayfasının iskeleti oluşturulmuş, iyileştirilmeye başlanmıştır. Tasarım ve kodlamada yapılacak ufak değişiklikler belirlenmiş
+bu değişiklikler için takımın diğer üyeleriyle iletişime geçilmiştir.
+Sprint Rewiev Katılımcıları: Beyza Şenol, Seçil Şener, Merve Punar, Ömer Mert Gülseven, Yılmaz Halil Gündaş
+
 
 ---
 
