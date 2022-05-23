@@ -109,7 +109,10 @@ kodlamaya başlanmıştır. Haber sayfasının veri çekme işleminde backend k�
 başlanmıştır. Karekod okutma sayfasının iskeleti oluşturulmuş, iyileştirilmeye başlanmıştır. Tasarım ve kodlamada yapılacak ufak değişiklikler belirlenmiş
 bu değişiklikler için takımın diğer üyeleriyle iletişime geçilmiştir.
 Sprint Rewiev Katılımcıları: Beyza Şenol, Seçil Şener, Merve Punar, Ömer Mert Gülseven, Yılmaz Halil Gündaş
-
+- **Sprint Retrospective:**
+  Takım içerisindeki kişiler görevlerini yapmaya başlamıştır.
+  Tahmin puanları dengeli bir şekilde belirlenmiştir.
+  
 
 ---
 
