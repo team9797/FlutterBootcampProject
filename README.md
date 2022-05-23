@@ -78,7 +78,17 @@ N/A
 
 # Sprint 2
 
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprintte toplam puan 100'dir. İkinci sprintte kod yazmaya ağırlık verildi ve 100 puan tamamlandı.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz genel story'lere göre düzenlenmiştir.Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının kolaylık ve hızlı erişim açısından WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 ---
 
 # Sprint 3
