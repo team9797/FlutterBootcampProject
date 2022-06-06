@@ -128,7 +128,9 @@ Sprint Rewiev Katılımcıları: Beyza Şenol, Seçil Şener, Merve Punar, Ömer
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının kolaylık ve hızlı erişim açısından WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği 
+- **Daily Scrum**: Daily Scrum toplantılarının kolaylık ve hızlı erişim açısından WhatsApp üzerinden yapılmasına karar verilmiştir. jpeg veya word,pdf olarak Readme'de tarafımızdan paylaşılmaktadır
+- [Daily Scrum SS.pdf](https://github.com/team9797/FlutterBootcampProject/files/8848041/Daily.Scrum.SS.pdf)
+ 
 
 
 - **Sprint board update**: Sprint board screenshotları: 
@@ -138,7 +140,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 - **Ürün Durumu**:
-Qr kod, haberler, bağış ve login sayfası tamamlandı. Uygulama sunuma hazır hale getirildi.
+Qr kod, haberler, bağış ve login sayfası tamamlandı. Üründe sadeleşmeye gidildi.Ürün çalışır hale getirildi.
 
 - **Sprint Review**: 
 Bu sprintte ürün detaylarının üzerinden tekrar geçilmiş,üründe sadeleşmeye gidilmiş ve  ürün kodlarının bir kısmı halledilmiştir, haber sayfasından veri çekme işlemi yapılmış, bağış sayfası tamamlanmış, uygulamanın bir kısmı hazır hale getirilmiştir.Çalışır bir uygulama sunulmuştur. Sprint Rewiev Katılımcıları: Beyza Şenol, Seçil Şener, Merve Punar, Ömer Mert Gülseven, Yılmaz Halil Gündaş
