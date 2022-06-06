@@ -141,7 +141,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Qr kod, haberler, bağış ve login sayfası tamamlandı. Uygulama sunuma hazır hale getirildi.
 
 - **Sprint Review**: 
-Bu sprintte ürün detaylarının üzerinden tekrar geçilmiş, ürün kodlarının tamamı halledilmiş, haber sayfasından veri çekme işlemi yapılmış, bağış sayfası tamamlanmış, uygulama hazır hale getirilmiştir. Sprint Rewiev Katılımcıları: Beyza Şenol, Seçil Şener, Merve Punar, Ömer Mert Gülseven, Yılmaz Halil Gündaş
+Bu sprintte ürün detaylarının üzerinden tekrar geçilmiş,üründe sadeleşmeye gidilmiş ve  ürün kodlarının bir kısmı halledilmiştir, haber sayfasından veri çekme işlemi yapılmış, bağış sayfası tamamlanmış, uygulamanın bir kısmı hazır hale getirilmiştir.Çalışır bir uygulama sunulmuştur. Sprint Rewiev Katılımcıları: Beyza Şenol, Seçil Şener, Merve Punar, Ömer Mert Gülseven, Yılmaz Halil Gündaş
 
 
 - **Sprint Retrospective:**
