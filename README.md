@@ -122,7 +122,7 @@ Sprint Rewiev Katılımcıları: Beyza Şenol, Seçil Şener, Merve Punar, Ömer
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprintte toplam puan 50'dir. İlk sprint sadece fikir bulunmaya ayrıldı ve 50 puan olarak hesaplandı.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. 3 sprint’e bölündüğünde üçüncü sprintte toplam puan 100’dür. Üçüncü sprintte kod yazmaya ve yazılan kodların birleştirilmesine ağırlık verildi. Toplam puan tamamlanamadı.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz genel story'lere göre düzenlenmiştir.Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
