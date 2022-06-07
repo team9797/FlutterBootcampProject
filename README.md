@@ -154,7 +154,7 @@ Qr kod, haberler, bağış ve login sayfası tamamlandı. Üründe sadeleşmeye 
 Bu sprintte ürün detaylarının üzerinden tekrar geçilmiş,üründe sadeleşmeye gidilmiş ve  ürün kodlarının bir kısmı halledilmiştir, haber sayfasından veri çekme işlemi yapılmış, bağış sayfası tamamlanmış, uygulamanın bir kısmı hazır hale getirilmiştir.Çalışır bir uygulama sunulmuştur. Sprint Rewiev Katılımcıları: Beyza Şenol, Seçil Şener, Merve Punar, Ömer Mert Gülseven, Yılmaz Halil Gündaş
 
 
-- **Sprint Retrospective:**
+ **Sprint Retrospective:**
   Takım içerisindeki kişiler görevlerini tamamlamıştır. Tahmin puanları dengeli bir şekilde belirlenmiştir.
   Neler iyi gitti?
 - Backlogtaki işlerin çoğunluğu tamamlandı. Son sprintte çalışmalar hızlandırıldı ve iletişim sıklığı sağlanarak sorunlar konusunda hızlı çözümler ve aksiyonlar alınmaya odaklanıldı.
