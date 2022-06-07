@@ -136,6 +136,19 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - ![Sprint (6)](https://user-images.githubusercontent.com/104425264/172247620-cafead31-58aa-4460-81fb-958009c95dbb.jpg)
 - **Ürün Durumu**:
 Qr kod, haberler, bağış ve login sayfası tamamlandı. Üründe sadeleşmeye gidildi.Ürün çalışır hale getirildi.
+Ürünün ekran görüntüleri sırasıyla aşağıda verilmiştir.
+<img width="218" alt="giriş" src="https://user-images.githubusercontent.com/104425264/172334840-226d5356-28ce-440b-85e9-bb795a826e9a.png">
+<img width="217" alt="login" src="https://user-images.githubusercontent.com/104425264/172334868-39f51a98-7d2d-478e-86a3-883297d3122e.png">
+<img width="217" alt="ana sayfa" src="https://user-images.githubusercontent.com/104425264/172334897-82838624-3283-446d-b5d2-958b20c60a3a.png">
+<img width="218" alt="bağış1" src="https://user-images.githubusercontent.com/104425264/172335054-c80583d8-4316-4aca-a94a-53bc5b354362.png">
+<img width="221" alt="barcode" src="https://user-images.githubusercontent.com/104425264/172335149-3e02aeac-226e-4ca8-a60e-2a7caa2ee00a.png">
+<img width="224" alt="barcode_screen" src="https://user-images.githubusercontent.com/104425264/172335164-e22a5d04-2ee1-4d92-9393-22d32e2b84c4.png">
+<img width="221" alt="rcyle" src="https://user-images.githubusercontent.com/104425264/172335184-a9ebaa2a-2127-4270-9558-6e4b13a32c9e.png">
+<img width="221" alt="geridönğşüm" src="https://user-images.githubusercontent.com/104425264/172335217-a135d186-0782-435f-8995-61f9130b43fa.png">
+<img width="215" alt="bağış2" src="https://user-images.githubusercontent.com/104425264/172335251-400006fa-8c88-4184-a2cc-96457b61ffa1.png">
+<img width="220" alt="Screenshot 2022-06-07 112216" src="https://user-images.githubusercontent.com/104425264/172335272-4fa553e7-002b-49fe-9820-384d7bdffb80.png">
+<img width="217" alt="login" src="https://user-images.githubusercontent.com/104425264/172335305-c55ec21c-2061-46af-94c0-f52f4d19c2b2.png">
+
 
  **Sprint Review**: 
 Bu sprintte ürün detaylarının üzerinden tekrar geçilmiş,üründe sadeleşmeye gidilmiş ve  ürün kodlarının bir kısmı halledilmiştir, haber sayfasından veri çekme işlemi yapılmış, bağış sayfası tamamlanmış, uygulamanın bir kısmı hazır hale getirilmiştir.Çalışır bir uygulama sunulmuştur. Sprint Rewiev Katılımcıları: Beyza Şenol, Seçil Şener, Merve Punar, Ömer Mert Gülseven, Yılmaz Halil Gündaş
