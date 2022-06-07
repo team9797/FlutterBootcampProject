@@ -156,7 +156,16 @@ Bu sprintte ürün detaylarının üzerinden tekrar geçilmiş,üründe sadeleş
 
 - **Sprint Retrospective:**
   Takım içerisindeki kişiler görevlerini tamamlamıştır. Tahmin puanları dengeli bir şekilde belirlenmiştir.
+  Neler iyi gitti?
+- Backlogtaki işlerin çoğunluğu tamamlandı. Son sprintte çalışmalar hızlandırıldı ve iletişim sıklığı sağlanarak sorunlar konusunda hızlı çözümler ve aksiyonlar alınmaya odaklanıldı.
 
--**Diğer Notlar**:
-N/A
+Hangi sorunlar ile karşılaştık?
+- Yapılan arayüz tasarımı ürüne eklenemedi. Son aşamalarda Gradle hatası ve firebase hatası alındı.
+
+Neler geliştirilmeli?
+- Her aşama sonunda küçük toplantılarla süreç değerlendirmesi ve testler daha sık yapılabilirdi. Bu sayede hatalar ve sorunlar daha hızlı fark edilerek çözüm üretilebilirdi. İlerleyen projelerde proje planlamasının daha ayrıntılı yapılması ve zamanın daha verimli yönetilmesi kararı alındı.
+
+-**Diğer Notlar:**
+Ürünün yüklenmesi sırasında bazı teknik ve internet aksaklıkları oldu.Kod kısmı tam zamanında yüklenmesine rağmen read me kısmında sonradan düzenlemeler yapıldı.
+  
 ---
